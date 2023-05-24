@@ -15,6 +15,7 @@ suwak nad przyciskiem zmienia próg zmiany koloru zielonego na niebieski
 
 wybierz kolejną falę - zmienia aktualnie edytowaną falę  
 dla każdej fali można zmienić frequency, amplitude i seed  
+fala to jakby kolejna warstwa noiseMapy
 
 losuj wartości fali - przypisuje losowe wartości dla aktualnie wybranej fali  
 
