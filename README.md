@@ -23,5 +23,5 @@ regeneruj - regeneruje mapę
 
 
 Uwagi:  
-Frequency najlepiej < 0.15  
+Frequency z tego co widze najlepiej wyglada jak jest < 0.15  
 Amplitude zwiększa/zmniejsza wpływ danej fali na wynik końcowy  
